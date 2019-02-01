@@ -1,0 +1,7 @@
+title: Test Feed
+description: Test threat feed.
+url: "http://swimtest.github.io/"
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-octicons
