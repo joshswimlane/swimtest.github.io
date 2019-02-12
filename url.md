@@ -1,6 +1,6 @@
 # URL Threat Feed
 
-| IP Address   |   Malicious   | First Seen |
-|--------------|:-------------:|-----------:|
-| 1.2.3.4      | Yes           | 1-12-2018  |
-| 5.6.7.8      | No            | 2-20-2018  |
+| URL | Source | First Seen | Last Seen |
+|-----|--------|------------|-----------|
+| http://foo.com/whatevers | VT | 2018-08-14 1848 | 2019-01-01 2000 |
+
