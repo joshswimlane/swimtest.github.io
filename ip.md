@@ -1,6 +1,4 @@
-# Test Feed
-
-Testing a threat feed.
+# IP Threat Feed
 
 | IP Address   |   Malicious   | First Seen |
 |--------------|:-------------:|-----------:|
