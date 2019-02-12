@@ -3,5 +3,5 @@ description: Test threat feed.
 url: "http://swimtest.github.io/"
 theme: jekyll-theme-hacker
 
-gems:
+plugins:
   - jekyll-octicons
