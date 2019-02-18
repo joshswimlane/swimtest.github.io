@@ -7,3 +7,6 @@
 | TEST | 2019-02-18T16:16:36.298692+00:00 |  |  |  |  | TEST | TEST | THREATMINER |  |  |  |  |
 | TEST | 2019-02-18T16:16:36.298692+00:00 |   |   |   |   | TEST | TEST | HYBRID-ANALYSIS |  |  |   |   |
 | TEST | 2019-02-18T16:16:36.298692+00:00 |  |  |   |  | TEST | TEST | THREATMINER |  |  |  |   |
+| TEST | 2019-02-18T16:16:36.298692+00:00 |  |  |  |  | TEST | TEST | THREATMINER |  |  |  |  |
+| TEST | 2019-02-18T16:16:36.298692+00:00 |   |   |   |   | TEST | TEST | HYBRID-ANALYSIS |  |  |   |   |
+| TEST | 2019-02-18T16:16:36.298692+00:00 |  |  |   |  | TEST | TEST | THREATMINER |  |  |  |   |
