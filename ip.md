@@ -7,5 +7,6 @@
 | unfamiliarLocation | 2019-02-15T20:23:08.829464+00:00 | RU | [u'2018-02-13 17:18:19'] | [u'computrabajossldowloadsshare.com'] | 253.39.142.95.in-addr.arpa. | User States Logon IP | Azure AD Identity Protection | THREATMINER | [u'2018-02-13 17:18:19'] |  | Servers.com,Inc. | [u'809880ad2e3cd37efeb209dbd3927dc4f33a47b0a4d5fcc7fe8ac3e2a6537a08'] |
 | suspiciousPowerShell | 2019-02-15T21:05:25.125552+00:00 | RU | [u'2018-02-13 17:18:19'] | [u'computrabajossldowloadsshare.com'] | 253.39.142.95.in-addr.arpa. | Network Connections Destination Address | Azure Security Center | THREATMINER | [u'2018-02-13 17:18:19'] |  | Servers.com,Inc. | [u'809880ad2e3cd37efeb209dbd3927dc4f33a47b0a4d5fcc7fe8ac3e2a6537a08'] |
 | suspiciousPowerShell | 2019-02-15T21:05:25.125552+00:00 |   |   |   |   | Network Connections Destination Address | Azure Security Center | HYBRID-ANALYSIS | 2018-02-13 17:59:48 |  |   |   |
- 
-
+| suspiciousPowerShell | 2019-02-18T16:05:31.168463+00:00 | RU | [u'2018-02-13 17:18:19', u'2018-02-13 17:18:19'] | [u'computrabajossldowloadsshare.com', u'computrabajossldowloadsshare.com'] | 253.39.142.95.in-addr.arpa. | Network Connections Destination Address | Azure Security Center | THREATMINER | [u'2018-02-13 17:18:19', u'2018-02-13 17:18:19'] |  | Servers.com,Inc. | [u'809880ad2e3cd37efeb209dbd3927dc4f33a47b0a4d5fcc7fe8ac3e2a6537a08', u'809880ad2e3cd37efeb209dbd3927dc4f33a47b0a4d5fcc7fe8ac3e2a6537a08'] |
+| suspiciousPowerShell | 2019-02-18T16:05:31.168463+00:00 |   |   |   |   | Network Connections Destination Address | Azure Security Center | HYBRID-ANALYSIS |  |  |   |   |
+| suspiciousPowerShell | 2019-02-18T16:05:31.168463+00:00 |  |  |   |  | Network Connections Destination Address | Azure Security Center | THREATMINER |  |  |  |   |
